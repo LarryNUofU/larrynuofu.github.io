@@ -39,7 +39,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 
-## Minesweeper [GitHub](https://github.com/LarryNUofU/LarryNguyen-Minesweeper)
+## Minesweeper [###(GitHub)](https://github.com/LarryNUofU/LarryNguyen-Minesweeper)
 
 ![minesweeper-image](https://larrynuofu.github.io/minesweeper2.gif)
 
