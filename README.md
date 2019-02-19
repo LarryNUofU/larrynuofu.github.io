@@ -4,7 +4,7 @@
 
 ## Minesweeper  [(GitHub)](https://github.com/LarryNUofU/LarryNguyen-Minesweeper)
 
-![minesweeper-image](https://larrynuofu.github.io/minesweeper4.gif)
+![minesweeper-image](https://larrynuofu.github.io/minesweeper5.gif)
 My minesweeper game using the SFML library in C++, using Visual Studio 2017.
 
 ## Weather App  [(GitHub)](https://github.com/LarryNUofU/LarryNguyen-WeatherApp)
